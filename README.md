@@ -1,3 +1,3 @@
 # GenAI_LLM
-This repository was created for the HugFace course studying. This is not a real project.
-.....
+This repository was created for the HugFace course studying. 
+This is not a real project.
